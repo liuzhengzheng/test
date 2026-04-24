@@ -3,7 +3,7 @@ import { ref } from 'vue'
 import { mockUsers } from '../data/mockUsers.js'
 
 const navItems = [
-  { id: 'dashboard', label: '仪表盘' },
+  { id: 'dashboard', label: '仪表盘111' },
   { id: 'users', label: '用户管理' },
   { id: 'settings', label: '设置' },
 ]
