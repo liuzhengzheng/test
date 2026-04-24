@@ -42,4 +42,12 @@ export const mockUsers = [
     status: 'active',
     createdAt: '2025-04-10',
   },
+  {
+    id: 6,
+    name: '六六六',
+    email: 'liuliuliu@example.com',
+    role: '超级管理员',
+    status: 'active',
+    createdAt: '2026-04-24',
+  },
 ]
